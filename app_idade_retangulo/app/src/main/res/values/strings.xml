@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">app_idade_retangulo</string>
+
+    <string name="txt_anoAtual">Ano Atual</string>
+    <string name="txt_anoNasc">Ano de Nascimento</string>
+    <string name="txt_calidade">Cálculo da Idade</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="txt_limpar">Limpar</string>
+    <string name="txt_sair">Sair</string>
+    <string name="txt_anos">Idade em Anos</string>
+    <string name="txt_meses">Idade em Meses</string>
+    <string name="txt_dias">Idade em Dias</string>
+    <string name="txt_horas">Idade em Horas</string>
+    <string name="txt_minutos">Idade em Minutos</string>
+    <string name="txt_segundos">Idade em Segundos</string>
+    <string name="txt_usuario">Usuário</string>
+    <string name="txt_senha">Senha</string>
+
+</resources>
